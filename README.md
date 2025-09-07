@@ -1,3 +1,6 @@
+
+![nature](https://github.com/user-attachments/assets/d6880334-8c17-4144-a1ad-fb983be3cefb)
+
 <h1>Abstract</h1>
 
 We propose PhiTransformer, a geometry-aware Transformer guided by phyllotaxis (golden
